@@ -1,6 +1,7 @@
 # Bank-Marketing
 *Objective:
           To predict whether a bank customer will subscribe to a term deposit (yes/no) based on demographic, economic, and marketing-related features, using machine learning models.
+
 *Problem Statement:
                   Banks often run marketing campaigns to promote term deposits, but contacting all customers is costly and inefficient.The problem is to build a predictive model that:
 .Identifies the customers most likely to subscribe.
